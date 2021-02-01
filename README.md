@@ -31,7 +31,7 @@ GET /product/:ID
 ```
 ###### Parameter:
     KEY           TYPE      EXAMPLE
-    ID            string      5d7a0998002b646756cae26c
+    ID            string     5d7a0998002b646756cae26c
 
 ---
 ### 4. Conditions

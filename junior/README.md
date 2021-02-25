@@ -5,14 +5,6 @@ Develop based on the UI design.  [Click here](https://www.figma.com/file/Y0xo1fL
 ### 1. About
 Let you develop ``` Product lists ```
 
-#### For Senior Front-end Developer
-```
-Let you develop 3 pages:
-1. Product lists 
-2. Product detail
-3. Cart
-```
-
 ---
 ### 2. Resource
 The resources you will get are in the Resources folder.

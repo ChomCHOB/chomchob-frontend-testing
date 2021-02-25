@@ -1,13 +1,8 @@
 ### ChomCHOB Front-end Testing
 #### For Junior Front-end Developer
-```
 Develop based on the UI design.  [Click here](https://www.figma.com/file/Y0xo1fL2G7chZbAoo4cBU6/Quiz-Front-end-for-Junior?node-id=0%3A1)
-```
-
 #### For Senior Front-end Developer
-```
 Develop based on the UI design.  [Click here](https://www.figma.com/file/6CG9ZT4sboHLLwN7Zq3Mhb/Interview-Front-end?node-id=1%3A2)
-```
 
 ---
 ### 1. About

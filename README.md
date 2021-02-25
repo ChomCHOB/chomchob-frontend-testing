@@ -19,7 +19,7 @@ Let you develop 3 pages:
 
 ---
 ### 2. Resource
-The resources you will get are in the Resources folder.
+The resources you will get are in the Resources folder. [Click here](https://github.com/ChomCHOB/chomchob-frontend-testing/tree/main/resource)
 
 ---
 ### 3. API Service

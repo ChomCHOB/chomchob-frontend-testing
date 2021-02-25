@@ -3,6 +3,11 @@ Develop based on the UI design.  [Click here](https://www.figma.com/file/6CG9ZT4
 
 ---
 ### 1. About
+#### For Junior Front-end Developer
+Let you develop 1 pages:
+1. Product lists 
+
+#### For Senior Front-end Developer
 Let you develop 3 pages:
 1. Product lists 
 2. Product detail

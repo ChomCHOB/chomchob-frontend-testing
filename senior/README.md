@@ -1,5 +1,5 @@
 ### ChomCHOB Front-end Testing
-Develop based on the UI design.  [Click here](https://www.figma.com/file/6CG9ZT4sboHLLwN7Zq3Mhb/Interview-Front-end?node-id=1%3A2)
+Develop based on the UI design.  [Click here](https://www.figma.com/file/6CG9ZT4sboHLLwN7Zq3Mhb/Quiz-Front-end-for-Senior?node-id=1%3A2)
 
 ---
 ### 1. About

@@ -55,5 +55,5 @@ GET /product/:ID
 ---
 ### 5. ช่องทางการส่งงาน
 Submit the work by pushing it to Github and sending the link to email. \
-Email: chomchobth@chomchob.com \
+Email: people@chomchob.com \
 Subject: "ส่งแบบทดสอบ Front-end"

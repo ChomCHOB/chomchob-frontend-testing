@@ -28,32 +28,7 @@ or use Library [Iconsax-react](https://iconsax-react.pages.dev/)
 ---
 
 ### 3. API Service
-
-##### URL
-
-This is base url for call service
-
-```
-https://cc-mock-api.herokuapp.com
-```
-
-##### Product List
-
-```
-GET /product
-```
-
-##### Product Detail
-
-```
-GET /product/:ID
-```
-
-###### Parameter
-
-    KEY           TYPE      EXAMPLE
-    ID            string     5d7a0998002b646756cae26c
-
+You can see [API Document](https://documenter.getpostman.com/view/14579854/VUjPJkmn) on Postman
 ---
 
 ### 4. Conditions

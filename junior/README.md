@@ -2,7 +2,7 @@
 
 #### For Junior Front-end Developer
 
-Develop based on the UI design.  [Click here](https://www.figma.com/file/lOH3cDxir1RLdLsn4XzbpV/Quiz-for-Junior-Front-end?node-id=0%3A1)
+Develop based on the UI design.  [Click here](https://www.figma.com/file/lOH3cDxir1RLdLsn4XzbpV/Quiz-for-Junior-Front-end)
 
 ---
 

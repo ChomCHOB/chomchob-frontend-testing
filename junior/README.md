@@ -28,7 +28,7 @@ or use Library [Iconsax-react](https://iconsax-react.pages.dev/)
 ---
 
 ### 3. API Service
-You can see [API Document](https://documenter.getpostman.com/view/14579854/VUjPJkmn) on Postman
+You can view the [API Document](https://documenter.getpostman.com/view/14579854/VUjPJkmn) from this link. This project's API is Shopping - Product API.
 ---
 
 ### 4. Conditions

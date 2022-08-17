@@ -1,17 +1,10 @@
-### ChomCHOB Front-end Testing
-
-#### For Junior Front-end Developer
-
+### ChomCHOB Front-end Quiz
 Develop based on the UI design.  [Click here](https://www.figma.com/file/lOH3cDxir1RLdLsn4XzbpV/Quiz-for-Junior-Front-end)
 
 ---
 
 ### 1. About
-
-#### For Junior Front-end Developer
-
 Let you develop 3 pages:
-
 ```
 1. Product lists (Show product type lists and grid)
 2. Product detail
@@ -21,15 +14,13 @@ Let you develop 3 pages:
 ---
 
 ### 2. Resource
-
-The resources you will get are in the Resources folder. [Click here](https://github.com/ChomCHOB/chomchob-frontend-testing/tree/main/resource)
-or use Library [Iconsax-react](https://iconsax-react.pages.dev/)
-
+The resources you will get are in the Resources folder. 
+1. Icons - [iconsax-react](https://iconsax-react.pages.dev/)
+2. Logo - [https://sagnerli.sirv.com/cc-quiz/cob-logo.png](https://sagnerli.sirv.com/cc-quiz/cob-logo.png)
 ---
 
 ### 3. API Service
-
-You can view the [Shopping - Product API Document](https://documenter.getpostman.com/view/14579854/VUjPJkmn) from this link.
+You can view the [Shopping - Product API Document](https://documenter.getpostman.com/view/14579854/VUjPJkmn#68054476-ce23-4503-9a1f-ccbeb44c0a83) from this link.
 ---
 
 ### 4. Conditions

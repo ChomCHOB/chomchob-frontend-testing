@@ -24,7 +24,8 @@ You can view the [Musix - API](https://documenter.getpostman.com/view/14579854/V
   1. You need to use ReactJS, React-router, Redux or NextJS to develop.
   2. You can choose to use CSS Frameworks (Bulma, Boostrap, etc.)
   3. You can choose to use CSS or SCSS/SASS
-  4. You have development time within 5 days after receiving this quiz
+  4. You cannot use audio library (ex. react-audio, react-audio-player etc.)
+  5. You have development time within 5 days after receiving this quiz
 
 ---
 ### 5. ช่องทางการส่งงาน

@@ -14,7 +14,7 @@ Let you develop 3 pages:
 ---
 
 ### 2. Resource
-The resources you will get are in the Resources folder. 
+The resources you can use
 1. Icons - [iconsax-react](https://iconsax-react.pages.dev/)
 2. Logo - [https://sagnerli.sirv.com/cc-quiz/cob-logo.png](https://sagnerli.sirv.com/cc-quiz/cob-logo.png)
 ---

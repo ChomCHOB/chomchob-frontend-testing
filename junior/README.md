@@ -1,4 +1,4 @@
-### ChomCHOB Front-end Quiz
+### ChomCHOB Front-end Quiz: Pokedex
 Develop based on the UI design.  [Click here](https://www.figma.com/file/lOH3cDxir1RLdLsn4XzbpV/Quiz-for-Junior-Front-end)
 
 ---
@@ -6,21 +6,19 @@ Develop based on the UI design.  [Click here](https://www.figma.com/file/lOH3cDx
 ### 1. About
 Let you develop 3 pages:
 ```
-1. Product lists (Show product type lists and grid)
-2. Product detail
-3. Cart
+1. Pokemon lists (Show pokemon type lists and grid)
+2. Pokemon detail
+3. Pokeball
 ```
 
 ---
 
 ### 2. Resource
-The resources you can use
-1. Icons - [iconsax-react](https://iconsax-react.pages.dev/)
-2. Logo - [https://sagnerli.sirv.com/cc-quiz/cob-logo.png](https://sagnerli.sirv.com/cc-quiz/cob-logo.png)
+You can use all resource in Figma
 ---
 
 ### 3. API Service
-You can view the [Shopping - Product API Document](https://documenter.getpostman.com/view/14579854/VUjPJkmn#68054476-ce23-4503-9a1f-ccbeb44c0a83) from this link.
+You can view the [ - Pokemon API Document](https://pokeapi.co/docs/v2) from this link.
 ---
 
 ### 4. Conditions

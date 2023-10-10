@@ -8,7 +8,7 @@ Let you develop 3 pages:
 ```
 1. Pokemon lists (Show pokemon type lists and grid)
 2. Pokemon detail
-3. Pokeball
+3. Pocket
 ```
 
 ---
